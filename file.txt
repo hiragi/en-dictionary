@@ -1,0 +1,358 @@
+"
+
+train
+
+
+"a set of several carriages that are connected to each other and pulled along a railway line by an engine"
+
+
+"a series of events or actions that are related"
+
+
+"a related series of thoughts that are developing in your mind"
+
+
+"if an action or event brings something in its train, that thing happens as a result of it"
+
+
+"to make a process start happening"
+
+
+"a long line of moving people, animals, or vehicles"
+
+
+"a part of a long dress that spreads out over the ground behind the person wearing it"
+
+
+"a group of servants or officers following an important person, especially in the past"
+
+"
+"
+
+diagnose
+
+
+"to find out what illness someone has, or what the cause of a fault is, after doing tests, examinations etc"
+
+"
+"
+
+lexical
+
+
+"dealing with words, or related to words"
+
+"
+"
+
+someone
+
+
+"used to mean a person, when you do not know, or do not say, who the person is"
+
+"
+"
+
+spear
+
+
+"a pole with a sharp pointed blade at one end, used as a weapon in the past"
+
+
+"a thin pointed stem of a plant"
+
+"
+"
+
+spear
+
+
+"a pole with a sharp pointed blade at one end, used as a weapon in the past"
+
+
+"a thin pointed stem of a plant"
+
+"
+"
+
+dictionary
+
+
+"a book that gives a list of words in alphabetical order and explains their meanings in the same language, or another language"
+
+
+"a book that explains the words and phrases used in a particular subject"
+
+"
+"
+
+insistent
+
+
+"demanding firmly and repeatedly that something should happen"
+
+
+"making a continuous pattern of sounds that is difficult to ignore"
+
+"
+"
+
+spear
+
+
+"a pole with a sharp pointed blade at one end, used as a weapon in the past"
+
+
+"a thin pointed stem of a plant"
+
+"
+"
+
+lexical
+
+
+"dealing with words, or related to words"
+
+"
+"
+
+plea
+
+
+"a request that is urgent or full of emotion"
+
+
+"a statement by someone in a court of law saying whether they are guilty or not"
+
+
+"an excuse for something"
+
+"
+"
+
+laugh
+
+
+"to make sounds with your voice, usually while you are smiling, because you think something is funny"
+
+
+"to say something in a voice that shows you are amused"
+
+
+"to feel upset or annoyed about something bad that has happened, but also able to see that there is something funny about it"
+
+
+"used when someone has just told you something that is completely untrue, asked for something impossible etc"
+
+
+"something serious that should not be joked about"
+
+
+"if a person or idea is laughed out of court etc, the idea is not accepted because people think it is completely stupid"
+
+
+"used to say that, even though a situation is annoying or disappointing, you can also see that there is something funny about it"
+
+
+"to make a lot of money without making much effort"
+
+
+"used to say that although someone is happy or confident now, they will be in trouble later"
+
+
+"to be happy or in a good situation, for example because something has had a successful result for you"
+
+
+"to behave towards someone in a way that shows that you do not respect them"
+
+
+"to be secretly happy, especially because you have played a trick on someone or criticized them without them knowing"
+
+
+"to make unkind or funny remarks about someone, because they have done or said something you think is stupid"
+
+
+"to seem not to care about something that most people would worry about"
+
+
+"to pretend that something is less serious than it really is by laughing or joking about it"
+
+"
+"
+
+laugh
+
+
+"to make sounds with your voice, usually while you are smiling, because you think something is funny"
+
+
+"to say something in a voice that shows you are amused"
+
+
+"to feel upset or annoyed about something bad that has happened, but also able to see that there is something funny about it"
+
+
+"used when someone has just told you something that is completely untrue, asked for something impossible etc"
+
+
+"something serious that should not be joked about"
+
+
+"if a person or idea is laughed out of court etc, the idea is not accepted because people think it is completely stupid"
+
+
+"used to say that, even though a situation is annoying or disappointing, you can also see that there is something funny about it"
+
+
+"to make a lot of money without making much effort"
+
+
+"used to say that although someone is happy or confident now, they will be in trouble later"
+
+
+"to be happy or in a good situation, for example because something has had a successful result for you"
+
+
+"to behave towards someone in a way that shows that you do not respect them"
+
+
+"to be secretly happy, especially because you have played a trick on someone or criticized them without them knowing"
+
+
+"to make unkind or funny remarks about someone, because they have done or said something you think is stupid"
+
+
+"to seem not to care about something that most people would worry about"
+
+
+"to pretend that something is less serious than it really is by laughing or joking about it"
+
+"
+"
+
+hedge
+
+
+"a row of small bushes or trees growing close together, usually dividing one field or garden from another"
+
+
+"something that protects you against possible problems, especially financial loss"
+
+"
+"
+
+spear
+
+
+"a pole with a sharp pointed blade at one end, used as a weapon in the past"
+
+
+"a thin pointed stem of a plant"
+
+"
+"
+
+dictionary
+
+
+"a book that gives a list of words in alphabetical order and explains their meanings in the same language, or another language"
+
+
+"a book that explains the words and phrases used in a particular subject"
+
+"
+"
+
+spear
+
+
+"a pole with a sharp pointed blade at one end, used as a weapon in the past"
+
+
+"a thin pointed stem of a plant"
+
+"
+"
+
+train
+
+
+"a set of several carriages that are connected to each other and pulled along a railway line by an engine"
+
+
+"a series of events or actions that are related"
+
+
+"a related series of thoughts that are developing in your mind"
+
+
+"if an action or event brings something in its train, that thing happens as a result of it"
+
+
+"to make a process start happening"
+
+
+"a long line of moving people, animals, or vehicles"
+
+
+"a part of a long dress that spreads out over the ground behind the person wearing it"
+
+
+"a group of servants or officers following an important person, especially in the past"
+
+"
+"
+
+funny
+
+
+"making you laugh"
+
+
+"unusual, strange, or difficult to explain"
+
+
+"appearing to be illegal, dishonest, or wrong"
+
+
+"if you give someone a funny look, you look at them in a way that shows you think they are behaving strangely"
+
+
+"feeling slightly ill"
+
+
+"slightly crazy"
+
+
+"if a machine, piece of equipment etc goes funny, it stops working properly"
+
+
+"used when someone is laughing at you or playing a trick and you do not think it is amusing"
+
+
+"used when you are serious or do not want to offend someone"
+
+
+"used to describe something you like because it is small, unusual, or interesting"
+
+
+"used when someone has described something as funny and you want to know whether they mean it is strange or amusing"
+
+"
+"
+
+scheme
+
+
+"an official plan that is intended to help people in some way, for example by providing education or training"
+
+
+"a clever plan, especially to do something that is bad or illegal - used in order to show disapproval"
+
+
+"a system that you use to organize information, ideas etc"
+
+
+"in the way things generally happen, or are organized"
+
+"
